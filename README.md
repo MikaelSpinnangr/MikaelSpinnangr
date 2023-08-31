@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @MikaelSpinnangr
-- 👀 I’m interested in ...Computational Design
-- 🌱 I’m currently learning ...CS
-- 📫 How to reach me ...misp@linkarkitektur.no
 
 
 
